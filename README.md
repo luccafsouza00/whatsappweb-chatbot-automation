@@ -1,7 +1,7 @@
 # 🤖 WhatsAppWeb Chatbot Automation
 
 ## 📌 Sobre o Projeto
-Este projeto foi criado para interagir de forma automatizada com um **chatbot no WhatsApp**. Ele permite testar fluxos de conversação do bot, garantindo respostas automatizadas conforme um arquivo JSON de configuração.
+Este projeto foi criado para interagir de forma automatizada com um **chatbot no WhatsApp**. Ele permite realizar fluxos de conversação do bot, garantindo respostas automatizadas conforme um arquivo JSON de configuração.
 
 ## 🚀 Como Funciona
 1. **Arquivo JSON de Configuração**
