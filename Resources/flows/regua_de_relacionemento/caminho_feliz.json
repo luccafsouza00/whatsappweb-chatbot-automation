@@ -1,0 +1,12 @@
+{
+    "disponibilidade": ["Poderia responder no momento?", "Sim"],
+    "cpf_paciente": ["Por gentileza, confirme o seu CPF, utilizando o padrão:", ""],
+    "preferencia_nome": ["Durante os nossos contatos, como prefere ser chamado?", 1],
+    "informar_apelido": ["Poderia informar seu apelido?", "Bigueti"],
+    "receberia_conteudos": ["Gostaria de receber mais conteúdos do Programa sobre o seu tratamento?", "Sim"],
+    "forma_recebimento_conteudos": ["Qual a forma que gostaria de receber esses conteúdos?", ""],
+    "frequencia_recebimento": ["Com que frequência deseja receber esses conteúdos?", "Sim"],
+    "interesse_sobre_tratamento": ["Você se considera uma pessoa interessada em entender mais sobre o seu tratamento?", "Sim"],
+    "segue_horarios_recomendados": ["Quando recebe uma receita do seu médico, consegue seguir corretamente os horários recomendados?", "Sim"],
+    "realiza_checkups_anuais": ["Você realiza check-ups anuais para monitorar sua saúde e bem-estar?", "Sim"]
+}

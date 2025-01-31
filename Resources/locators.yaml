@@ -1,0 +1,6 @@
+contact_search_input: //div[text()='Search']/following-sibling::div/div/div
+contact_box: //span[@title="{text}"]
+message_input: //div[@aria-placeholder='Type a message']
+unread_message_notification: //span[@title="{text}"]/../../../..//span[contains(@aria-label, 'unread')]
+bot_message: //div[contains(@class, 'message-in')]//span[contains(text(), "{text}")]
+

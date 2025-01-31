@@ -1,0 +1,5 @@
+{
+    "disponibilidade": ["Poderia responder no momento?", "Sim"],
+    "cpf_errado_1": ["Por gentileza, confirme o seu CPF, utilizando o padrão:", ""],
+    "cpf_errado_2": ["Não identificamos o CPF, favor digite novamente, utilizando o padrão:", ""]
+}
